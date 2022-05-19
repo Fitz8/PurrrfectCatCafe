@@ -5,6 +5,7 @@ body{
     padding: 0;
     margin: 0;
     background-color: #FAE3E3;
+    min-height: 100vh;
 }
 
 a { 
